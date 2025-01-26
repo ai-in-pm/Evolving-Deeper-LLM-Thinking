@@ -1,0 +1,8 @@
+openai>=1.0.0
+anthropic>=0.7.0
+groq>=0.3.0
+google-generativeai>=0.3.0
+cohere>=4.0.0
+python-dotenv>=1.0.0
+asyncio>=3.4.3
+aiohttp>=3.9.0
